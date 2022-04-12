@@ -13,6 +13,7 @@ Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi
 * Zaledwie 5 komend z ukośnikiem - bo nie umiem programować i korzystam z programu w którym mogę tworzyć komendy w bocie.
 * Oraz kilka innych komend
 * Jeśli znajdziesz błąd, użyj komendy: ssh!bug Twoja wiadomość
+* Alternatywne informacje znajdziesz na Discordzie w sekcji "About me" 
 * Dostępne prefixy:
 * hasztag #
 * ukośnik /
