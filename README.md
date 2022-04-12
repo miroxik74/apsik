@@ -14,8 +14,8 @@ Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi
 * Oraz kilka innych komend
 * Jeśli znajdziesz błąd, użyj komendy: ssh!bug Twoja wiadomość
 * Dostępne prefixy:
-* #
-* /
+* hasztag #
+* ukośnik /
 
 ** Tylko proszę nie zmieniaj uprawnień ani przy ani po dodaniu bota na swój serwer, wszystko dodałem jak być powinno także tutaj mała prośba do Ciebie drogi użytkowniku. 😇
 
