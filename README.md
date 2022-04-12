@@ -18,7 +18,7 @@ Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi
 * hasztag #
 * ukośnik /
 
-** Tylko proszę nie zmieniaj uprawnień ani przy ani po dodaniu bota na swój serwer, wszystko dodałem jak być powinno także tutaj mała prośba do Ciebie drogi użytkowniku. 😇
+** Tylko proszę nie zmieniaj uprawnień ani przy, ani po dodaniu bota na swój serwer, wszystko dodałem jak być powinno także tutaj mała prośba do Ciebie drogi użytkowniku. 😇
 
 *** Nie odpowiadam za treści wysłane przez jakiegokolwiek użytkownika za pośrednictwem bota.
 Natomiast, jeśli bot będzie nadużywany a tym samym wysyłane będą wulgarne lub nieodpowiednie wiadomości i zostanie to zgłoszone bezpośrednio do mnie, wykonam odpowiednie czynności/działanie aby zapobiec temu na przyszłość. Safe4Safe✌
