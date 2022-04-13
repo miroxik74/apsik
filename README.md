@@ -10,13 +10,13 @@ Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi
 * Komenda czyszcząca niepotrzebne wiadomości 😮
 * Ustawienie swojego nicku - nie ważne, że możesz zrobić to tylko wtedy gdy masz uprawnienie do zmiany swojego nicku! 😄
 * Spraw aby bot napisał wiadomość za Ciebie!
-* Zaledwie 5 komend z ukośnikiem - bo nie umiem programować i korzystam z programu w którym mogę tworzyć komendy w bocie.
+* Zaledwie 5 komend z ukośnikiem!
 * Oraz kilka innych komend
-* Jeśli znajdziesz błąd, użyj komendy: ssh!bug Twoja wiadomość
+* Jeśli znajdziesz błąd, użyj komendy: `ssh!bug Twoja wiadomość`
 * Alternatywne informacje znajdziesz na Discordzie, w jego profilu, w sekcji "O mnie" 
 * Dostępne prefixy:
-* hasztag #
-* ukośnik /
+* hasztag `#`
+* ukośnik `/`
 
 ** Tylko proszę nie zmieniaj uprawnień ani przy, ani po dodaniu bota na swój serwer, wszystko dodałem jak być powinno także tutaj mała prośba do Ciebie drogi użytkowniku. Ewentualnie możesz odznaczyć administratora ale gdyby były problemy to przywróć to uprawnienie. 😇
 
