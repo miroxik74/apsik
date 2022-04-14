@@ -11,7 +11,7 @@ Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi
 * Ustawienie swojego nicku - nie ważne, że możesz zrobić to tylko wtedy gdy masz uprawnienie do zmiany swojego nicku! 😄
 * Spraw aby bot napisał wiadomość za Ciebie!
 * Zaledwie 5 komend z ukośnikiem!
-* Oraz kilka innych komend
+* Oraz wiele innych komend
 * Zgłaszanie błędów: `ssh!bug Twoja wiadomość`
 * Zgłaszanie nadużycia: `ssh!report Twoja wiadomość`
 * Alternatywne informacje znajdziesz na Discordzie, w jego profilu, w sekcji "O mnie" 
