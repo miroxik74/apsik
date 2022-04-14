@@ -18,6 +18,7 @@ Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi
 * Dostępne prefixy:
 * hasztag `#`
 * ukośnik `/`
+* oraz `ssh!`
 
 ** Tylko proszę nie zmieniaj uprawnień ani przy, ani po dodaniu bota na swój serwer, wszystko dodałem jak być powinno także tutaj mała prośba do Ciebie drogi użytkowniku. Ewentualnie możesz odznaczyć administratora ale gdyby były problemy to przywróć to uprawnienie. 😇
 
