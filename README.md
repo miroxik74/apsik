@@ -26,7 +26,7 @@ Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi
 #
 ** Tylko proszę nie zmieniaj uprawnień ani przy, ani po dodaniu bota na swój serwer, wszystko dodałem jak być powinno także tutaj mała prośba do Ciebie drogi użytkowniku. Ewentualnie możesz odznaczyć administratora ale gdyby były problemy to przywróć to uprawnienie. 😇
 
-** Wchodząc na serwer wsparcia, wejdź na pierwszy kanał o nazwie `𝟏-𝐊𝐋𝐈𝐊𝐍𝐈𝐉-𝐓𝐔𝐓𝐀𝐉` i wybierz reakcję `1️⃣` | link do serwera jest dostępny dopiero po zaproszeniu bota "do siebie".
+** Wchodząc na serwer wsparcia, wejdź na pierwszy kanał o nazwie `𝟏-𝐊𝐋𝐈𝐊𝐍𝐈𝐉-𝐓𝐔𝐓𝐀𝐉` i wybierz reakcję `1️⃣`.
 
 *** Nie odpowiadam za treści wysłane przez jakiegokolwiek użytkownika za pośrednictwem bota.
 Natomiast, jeśli bot będzie nadużywany a tym samym wysyłane będą wulgarne lub nieodpowiednie wiadomości i zostanie to zgłoszone bezpośrednio do mnie, wykonam odpowiednie czynności/działanie aby zapobiec temu na przyszłość. Pamiętaj, że jeśli załączysz screeny, nie będę miał do nich dostępu, więc zamiast screena, dołącz link do wiadomości z dowodem. Safe4Safe✌
