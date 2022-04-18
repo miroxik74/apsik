@@ -33,6 +33,6 @@ Natomiast, jeśli bot będzie nadużywany a tym samym wysyłane będą wulgarne 
 
 Yay! Naprawdę miło, że to wszystko przeczytałeś. Niestety, jeśli aplikacja w której tworzę nie będzie miała nowych opcji lub możliwości to nie będę mógł dodawać innych rzeczy, będę próbował uczyć się cokolwiek programować żeby za kilkanaście lat móc poprawić wersję, która jest teraz, idzie mi to mega opornie 😅
 
-[Link zaproszeniowy bota](https://dsc.gg/apsik)
+[Zaproś bota](https://dsc.gg/apsik)
 
-[Discord](https://discord.gg/4C3sHTSBeP) <img src="https://discordapp.com/api/guilds/723232457696083978/widget.png?style=shield" alt="Discord Shield"/>
+[Support](https://discord.gg/4C3sHTSBeP) <img src="https://discordapp.com/api/guilds/723232457696083978/widget.png?style=shield" alt="Discord Shield"/>
