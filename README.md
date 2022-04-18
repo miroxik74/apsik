@@ -36,4 +36,3 @@ Yay! Naprawdę miło, że to wszystko przeczytałeś. Niestety, jeśli aplikacja
 [Zaproś bota](https://dsc.gg/apsik)
 
 [Support](https://discord.gg/4C3sHTSBeP) <img src="https://discordapp.com/api/guilds/723232457696083978/widget.png?style=shield" alt="Discord Shield"/>
-<img src="https://discordapp.com/api/guilds/723232457696083978/widget.png?style=banner4" alt="Discord Banner 4"/>
