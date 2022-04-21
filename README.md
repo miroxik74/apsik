@@ -7,7 +7,7 @@ Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi
 * Niemożliwa do spersonalizowania weryfikacja - bo musisz dodać rolę w której będzie określony znak/emotka
 * Utworzenie ticketu ale bez możliwości zapisania transkrypcji - ważne, że działa! 😄
 * Wyrzucanie, banowanie, odbanowanie użytkowników 😮
-* Komenda czyszcząca niepotrzebne wiadomości 😮
+* Czyszczenie niepotrzebnych wiadomości 😮
 * Ustawienie swojego nicku - nie ważne, że możesz zrobić to tylko wtedy gdy masz uprawnienie do zmiany swojego nicku! 😄
 * Spraw aby bot napisał wiadomość za Ciebie!
 * Zaledwie 5 komend z ukośnikiem!
