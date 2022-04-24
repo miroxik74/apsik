@@ -38,4 +38,4 @@ Yay! Naprawdę miło, że to wszystko przeczytałeś. Niestety, jeśli aplikacja
 
 [Zaproś bota](https://dsc.gg/apsik)
 
-[Serwer pomocy](https://discord.gg/4C3sHTSBeP)
+[Serwer wsparcia](https://discord.gg/4C3sHTSBeP)
