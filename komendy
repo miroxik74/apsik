@@ -13,6 +13,9 @@ Lista komend z prefiksu # (bez opisu komend):
 /eban
 #s-info
 #stats
+#setnick
+#invite
+#set-invite
 #devmode
 #update
 #fakenitro
@@ -21,6 +24,3 @@ Lista komend z prefiksu # (bez opisu komend):
 #pingoff
 #say
 #esay
-#setnick
-#invite
-#set-invite
