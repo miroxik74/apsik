@@ -1,1 +1,20 @@
-`beep boop`
+Lista wszystkich komend z prefiksu # (bez opisu):
+
+#hlep
+#verify
+#bilet
+#delete
+#kick @wzmianka
+#ban @wzmianka
+#unban
+#fakenitro
+#clydeon
+#clydeoff
+#pingoff
+#say
+#esay
+#s-info
+#uping
+#setnick
+#invite
+#set-invite
