@@ -1,20 +1,26 @@
 Lista wszystkich komend z prefiksu # (bez opisu):
 
 #hlep
+#mod
+/mod
 #verify
 #bilet
 #delete
 #kick @wzmianka
 #ban @wzmianka
 #unban
+/ekick
+/eban
+#s-info
+#stats
+#devmode
+#update
 #fakenitro
 #clydeon
 #clydeoff
 #pingoff
 #say
 #esay
-#s-info
-#uping
 #setnick
 #invite
 #set-invite
