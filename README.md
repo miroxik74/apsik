@@ -37,6 +37,7 @@ Yay! Naprawdę miło, że to wszystko przeczytałeś. Niestety, jeśli aplikacja
 
 # Odnośniki:
 > [Komendy](https://github.com/miroxik74/apsik/blob/main/komendy)
+> 
 > [Zaproś bota](https://dsc.gg/apsik)
 > 
 > [Serwer wsparcia](https://discord.gg/4C3sHTSBeP)
