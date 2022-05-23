@@ -6,6 +6,8 @@ Lista komend z prefiksu # (bez opisu komend):
 #uprawnienia
 #verify
 #bilet
+#add
+#remove
 #delete
 #kick @wzmianka
 #ban @wzmianka
