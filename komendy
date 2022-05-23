@@ -11,6 +11,8 @@ Lista komend z prefiksu # (bez opisu komend):
 #unban
 /ekick
 /eban
+#clear
+/clear
 #s-info
 #stats
 #setnick
