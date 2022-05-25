@@ -18,6 +18,7 @@ Lista komend z prefiksu # (bez opisu komend):
 /clear
 #s-info
 #stats
+/status
 #setnick
 #invite
 #set-invite
