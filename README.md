@@ -10,7 +10,7 @@ Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi
 * Czyszczenie niepotrzebnych wiadomości 😮
 * Ustawienie swojego nicku - nie ważne, że możesz zrobić to tylko wtedy gdy masz uprawnienie do zmiany swojego nicku! 😄
 * Spraw aby bot napisał wiadomość za Ciebie!
-* Zaledwie 5 komend z ukośnikiem!
+* Zaledwie kilka komend z ukośnikiem!
 * Oraz wiele innych komend
 #
 * Zgłaszanie błędów: `ssh!bug Twoja wiadomość`
