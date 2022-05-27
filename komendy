@@ -2,7 +2,6 @@ Lista komend z prefiksu # oraz / (bez opisu komend):
 
 #hlep
 #mod
-/mod
 #uprawnienia
 #verify
 #bilet
@@ -12,14 +11,10 @@ Lista komend z prefiksu # oraz / (bez opisu komend):
 #kick @wzmianka
 #ban @wzmianka
 #unban
-/ekick
-/eban
 #clear
-/clear
 #setprefix
 #s-info
 #stats
-/status
 #setnick
 #invite
 #set-invite
@@ -31,3 +26,9 @@ Lista komend z prefiksu # oraz / (bez opisu komend):
 #pingoff
 #say
 #esay
+
+/mod
+/ekick
+/eban
+/clear
+/status
