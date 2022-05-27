@@ -16,6 +16,7 @@ Lista komend z prefiksu # oraz / (bez opisu komend):
 /eban
 #clear
 /clear
+#setprefix
 #s-info
 #stats
 /status
