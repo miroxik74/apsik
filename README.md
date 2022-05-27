@@ -36,7 +36,7 @@ Natomiast, jeśli bot będzie nadużywany a tym samym wysyłane będą wulgarne 
 Yay! Naprawdę miło, że to wszystko przeczytałeś. Niestety, jeśli aplikacja w której tworzę nie będzie miała nowych opcji lub możliwości to nie będę mógł dodawać innych rzeczy, będę próbował uczyć się cokolwiek programować żeby za kilkanaście lat móc poprawić wersję, która jest teraz, idzie mi to mega opornie 😅
 
 # Odnośniki:
-> [Komendy #](https://github.com/miroxik74/apsik/blob/main/komendy)
+> [Komendy # oraz /](https://github.com/miroxik74/apsik/blob/main/komendy)
 > 
 > [Zaproś bota](https://dsc.gg/apsik)
 > 
