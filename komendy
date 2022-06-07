@@ -30,5 +30,7 @@ Lista komend z prefiksu # oraz / (bez opisu komend):
 /mod
 /ekick
 /eban
+/ban
+/kick
 /clear
 /status
