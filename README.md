@@ -24,7 +24,7 @@ Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi
 * `#hlep`
 * `ssh!help`
 #
-** Tylko proszę nie zmieniaj uprawnień ani przy, ani po dodaniu bota na swój serwer, wszystko dodałem jak być powinno także tutaj mała prośba do Ciebie drogi użytkowniku. Ewentualnie możesz odznaczyć administratora ale gdyby były problemy to przywróć to uprawnienie. 😇
+** Tylko proszę nie zmieniaj uprawnień ani przy, ani po dodaniu bota na swój serwer, wszystko dodałem jak być powinno także tutaj mała prośba do Ciebie drogi użytkowniku. Natomiast możesz odznaczyć administratora ale gdyby były problemy to dodaj to uprawnienie. 😇
 
 ** Wchodząc na serwer wsparcia, wejdź na pierwszy kanał o nazwie `𝟏-𝐊𝐋𝐈𝐊𝐍𝐈𝐉-𝐓𝐔𝐓𝐀𝐉` i wybierz reakcję `1️⃣`.
 
