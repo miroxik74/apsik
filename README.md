@@ -38,6 +38,6 @@ Yay! Naprawdę miło, że to wszystko przeczytałeś. Niestety, jeśli aplikacja
 # Odnośniki:
 > [Komendy # oraz /](https://github.com/miroxik74/apsik/blob/main/komendy)
 > 
-> [Zaproś bota](https://dsc.gg/apsik)
-> 
-> [Serwer wsparcia](https://discord.gg/4C3sHTSBeP)
+> [Zaproś bota z #](https://dsc.gg/apsik)
+>
+> [Zaproś bota z ssh!](https://dsc.gg/apsik)
