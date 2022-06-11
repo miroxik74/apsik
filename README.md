@@ -1,7 +1,7 @@
 # README
 
 Hej użytkowniku! 👋
-Czy zastanawiałeś się kiedyś gdzie znajdziesz mało-użytecznego albo niepotrzebnego bota? Idealnie trafiłeś!
+Czy zastanawiałeś się kiedyś gdzie znajdziesz mało-użytecznego albo niepotrzebnego bota? a nawet dwa! 😮 Idealnie trafiłeś!
 Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi:
 #
 * Niemożliwa do spersonalizowania weryfikacja - bo musisz dodać rolę w której będzie określony znak/emotka
