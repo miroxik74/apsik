@@ -40,4 +40,4 @@ Yay! Naprawdę miło, że to wszystko przeczytałeś. Niestety, jeśli aplikacja
 > 
 > [Zaproś bota z #](https://dsc.gg/apsik)
 >
-> [Zaproś bota z ssh!](https://dsc.gg/apsik)
+> [Zaproś bota z ssh!](https://dsc.gg/ssh!)
