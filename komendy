@@ -12,7 +12,6 @@ Lista komend z prefiksu # oraz / (bez opisu komend):
 #ban @wzmianka
 #unban
 #clear
-#setprefix
 #s-info
 #stats
 #setnick
