@@ -13,6 +13,7 @@ Lista komend z prefiksu # oraz / (bez opisu komend):
 #unban
 #clear
 #s-info
+#u-info
 #stats
 #setnick
 #invite
