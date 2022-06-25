@@ -24,7 +24,7 @@ Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi
 * `#hlep`
 * `ssh!help`
 #
-** Bot z prefiksem # - Uprawnienie administratora odznacz dopiero po zaproszeniu go na swój serwer, ponieważ wysyła on krótką wiadomość gdy dołączy. 😇
+** Bot z prefiksem # - Uprawnienie administratora odznacz dopiero po zaproszeniu go na swój serwer, ponieważ wysyła on krótką wiadomość z instrukcją gdy dołączy. 😇
 
 ** Wchodząc na serwer wsparcia, wejdź na pierwszy kanał o nazwie `𝟏-𝐊𝐋𝐈𝐊𝐍𝐈𝐉-𝐓𝐔𝐓𝐀𝐉` i wybierz reakcję `1️⃣`.
 
