@@ -13,8 +13,12 @@ Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi
 * Zaledwie kilka komend z ukośnikiem!
 * Oraz wiele innych komend
 #
-* Zgłaszanie błędów: `ssh!bug Twoja wiadomość`
-* Zgłaszanie nadużycia: `ssh!report Twoja wiadomość`
+* Zgłaszanie błędów.:
++ Jeśli bot z prefiksem ssh!: `ssh!bug Twoja wiadomość`
++ Jeśli bot z prefiksem #: `#bug Twoja wiadomość`
+* Zgłaszanie nadużycia.: 
++ Jeśli bot z prefiksem ssh!: `ssh!report Twoja wiadomość`
++ Jeśli bot z prefiksem #: `#report Twoja wiadomość`
 * Alternatywne informacje znajdziesz na Discordzie, w jego profilu, w sekcji "O mnie" 
 * Dostępne prefixy:
 * hasztag `#`
