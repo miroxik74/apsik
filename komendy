@@ -18,6 +18,8 @@ Lista komend z prefiksu # oraz / (bez opisu komend):
 #setprefix
 {twójprefix}removeprefix \\ Przykład: %removeprefix
 #stats
+#bug
+#report
 #setnick
 #invite
 #set-invite
