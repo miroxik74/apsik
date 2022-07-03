@@ -29,7 +29,7 @@ Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi
 * `ssh!help`
 #
 ** Bot z prefiksem # - Uprawnienie administratora odznacz dopiero po zaproszeniu go na swój serwer, ponieważ wysyła on krótką wiadomość z instrukcją gdy dołączy. 😇
-// Ewentualnie możesz odznaczyć administratora ale po dołączeniu bota, użyj komendy `#start` aby otrzymać wiadomość.
+// Ewentualnie możesz odznaczyć administratora ale po dołączeniu bota, użyj komendy `#start` aby otrzymać wiadomość - o ile nie wysłał jej na któryś z kanałów.
 
 ** Wchodząc na serwer wsparcia, wejdź na pierwszy kanał o nazwie `𝟏-𝐊𝐋𝐈𝐊𝐍𝐈𝐉-𝐓𝐔𝐓𝐀𝐉` i wybierz reakcję `1️⃣`.
 
