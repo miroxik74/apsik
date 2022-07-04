@@ -23,6 +23,8 @@ Lista komend z prefiksu # oraz / (bez opisu komend):
 #setnick
 #invite
 #set-invite
+#id @użytkownik
+#id #kanał
 #devmode
 #update
 #fakenitro
