@@ -30,9 +30,9 @@ Ten bot zawiera 1/1000 albo i mniej tego co mają popularne boty, między innymi
 #
 ** Wchodząc na serwer wsparcia, wejdź na pierwszy kanał o nazwie `𝟏-𝐊𝐋𝐈𝐊𝐍𝐈𝐉-𝐓𝐔𝐓𝐀𝐉` i wybierz reakcję `1️⃣`.
 
-*** Nie odpowiadam za błędy spowodowane przez platformę Discord lub hosta, które będą uniemożliwiać działanie bota.
-
 *** Jeśli jakiś bot nie odpowiada na komendy lub jest inny problem, wejdź na serwera wsparcia.
+
+*** Nie odpowiadam za błędy spowodowane przez platformę Discord lub hosta, które będą uniemożliwiać działanie bota.
 
 **** Bot z prefiksem # - Uprawnienie administratora odznacz dopiero po zaproszeniu go na swój serwer, ponieważ wysyła on krótką wiadomość z instrukcją gdy dołączy. 😇
 // Ewentualnie możesz odznaczyć administratora ale po dołączeniu bota, użyj komendy `#start` aby otrzymać wiadomość.
