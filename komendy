@@ -5,22 +5,23 @@ Lista komend z prefiksu # oraz / (bez opisu komend):
 #uprawnienia
 #verify
 #bilet
-#add
-#remove
+#add @wzmianka
+#remove @wzmianka
 #delete
 #kick @wzmianka
 #ban @wzmianka
-#unban
-#clear
+#unban id
+#clear liczba
+#purge @wzmianka
 #s-info
 #u-info
 #userlist
-#setprefix
+#setprefix  \\ Przykład: #setprefix %
 {twójprefix}removeprefix \\ Przykład: %removeprefix
 #stats
-#bug
-#report
-#setnick
+#bug wiadomość
+#report wiadomość
+#setnick nowynick
 #invite
 #set-invite
 #id @użytkownik
