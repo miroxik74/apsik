@@ -45,7 +45,7 @@ Yay! Naprawdę miło, że to wszystko przeczytałeś. Niestety, jeśli aplikacja
 # Odnośniki:
 > [Komendy # oraz /](https://github.com/miroxik74/apsik/blob/main/komendy)
 > 
-> 1. [Zaproś bota z #](https://dsc.gg/apsik)
+> 1. [Zaproś bota z #](https://dsc.gg/apsik) - aktualnie offline!
 >
 > 2. [Zaproś bota z ssh!](https://dsc.gg/ssh!)
 >
