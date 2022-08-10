@@ -10,6 +10,8 @@ Lista komend z prefiksu # oraz / (bez opisu komend):
 #delete
 #kick @wzmianka
 #ban @wzmianka
+#forceban id
+#kara @wzmianka
 #unban id
 #clear liczba
 #purge @wzmianka
