@@ -51,4 +51,4 @@ Yay! Naprawdę miło, że to wszystko przeczytałeś. Niestety, jeśli aplikacja
 >
 > 3. [Zaproś bota muzycznego z !](https://dsc.gg/apsikk)
 >
-> 3. [NIEAKTYWNY! - Zaproś bota ✨Muzyczny](https://miroxik74.xyz)
+> 3. [Zaproś bota ✨Muzyczny](https://miroxik74.xyz)
