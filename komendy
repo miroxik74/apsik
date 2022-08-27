@@ -5,8 +5,8 @@ Lista komend z prefiksu # oraz / (bez opisu komend):
 #uprawnienia
 #verify
 #bilet
-#add @wzmianka
-#remove @wzmianka
+#add-user @wzmianka
+#remove-user @wzmianka
 #delete
 #kick @wzmianka
 #ban @wzmianka
