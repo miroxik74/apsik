@@ -51,6 +51,6 @@ Yay! Naprawdę miło, że to wszystko przeczytałeś. Niestety, jeśli aplikacja
 > 4. [Zaproś bota ✨Muzyczny](https://miroxik74.xyz)
 
 # Boty stworzone przez [Milrato Development](https://github.com/Tomato6966) [EN]:
-> 1. [✨Admin](https://s.miroxik74.xyz/tadminbot)
+> 1. [✨Admin#1202](https://s.miroxik74.xyz/tadminbot)
 > 2. [✨Clan#6680](https://s.miroxik74.xyz/tclanbot)
 > 3. [✨Music#2712](https://s.miroxik74.xyz/tmusicbot)
