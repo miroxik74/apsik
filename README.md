@@ -42,13 +42,15 @@ Natomiast, jeśli bot będzie nadużywany a tym samym wysyłane będą wulgarne 
 
 Yay! Naprawdę miło, że to wszystko przeczytałeś. Niestety, jeśli aplikacja w której tworzę nie będzie miała nowych opcji lub możliwości to nie będę mógł dodawać innych rzeczy, będę próbował uczyć się cokolwiek programować żeby za kilkanaście lat móc poprawić wersję, która jest teraz, idzie mi to mega opornie 😅
 
-# Odnośniki:
-> [Komendy # oraz /](https://github.com/miroxik74/apsik/blob/main/komendy)
+# Boty stworzone przeze mnie [PL]:
 > 
-> 1. [Zaproś bota z #](https://dsc.gg/apsik)
->
+> 
+> 1. [Zaproś bota z #](https://dsc.gg/apsik) /// [Komendy](https://github.com/miroxik74/apsik/blob/main/komendy)
 > 2. [Zaproś bota z ssh!](https://dsc.gg/ssh!)
->
 > 3. [Zaproś bota muzycznego z !](https://dsc.gg/apsikk)
->
-> 3. [Zaproś bota ✨Muzyczny](https://miroxik74.xyz)
+> 4. [Zaproś bota ✨Muzyczny](https://miroxik74.xyz)
+
+# Boty stworzone przez [Milrato Development](https://github.com/Tomato6966) [EN]:
+> 1. [✨Admin](https://s.miroxik74.xyz/tadminbot)
+> 2. [✨Clan#6680](https://s.miroxik74.xyz/tclanbot)
+> 3. [✨Music#2712](https://s.miroxik74.xyz/tmusicbot)
