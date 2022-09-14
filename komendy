@@ -28,12 +28,6 @@ Lista komend z prefiksu # oraz / (bez opisu komend):
 #set-invite
 #id @użytkownik
 #id #kanał
-#devmode
-#update
-#fakenitro
-#clydeon
-#clydeoff
-#pingoff
 #say
 #esay
 
