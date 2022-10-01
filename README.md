@@ -1,4 +1,4 @@
-# README - PRZESTARZAŁY
+# - Przestarzały dokument
 
 >  .
 
